@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @moon3482
+- 👋 Hi, I’m Charlie_Moon
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m Junior Developer 
 
 
 
