@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charlie_Moon
 
-- 🌱 I’m Junior Developer 
+- 🌱 I’m Junior Android Developer 
 
 
 
