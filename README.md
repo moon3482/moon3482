@@ -4,7 +4,7 @@
 
 
 ![moon3842's github stats](https://github-readme-stats.vercel.app/api?username=moon3482&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/moon3482)
 - 👋 Hi, I’m Charlie_Moon
 
 - 🌱 I’m Junior Android Developer 
