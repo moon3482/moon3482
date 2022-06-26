@@ -11,9 +11,10 @@
 <p align="center">
 Platform
 </p>
-  
-<img align="center" src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
-<img align="center" src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>  
+  <p align="center">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
+</p>
+<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>  
   
     
 Language  
