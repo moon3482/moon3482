@@ -9,14 +9,14 @@
 
 - 🌱 I’m Junior Android Developer 
 <p align="center">
-Platform
+### Platform
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
 </p>  
 <p align="center">
-Language  
+### 🔤 Language  
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
@@ -28,7 +28,7 @@ Language
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 </p>
 <p align="center">
- DataBase
+### 💽 DataBase
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
