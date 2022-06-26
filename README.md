@@ -9,7 +9,7 @@
 
 - 🌱 I’m Junior Android Developer 
 <p align="center">
-<h3> Platform </h3>
+<h3 align="center"> Platform </h3>
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
