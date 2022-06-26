@@ -8,8 +8,8 @@
 - 👋 Hi, I’m Charlie_Moon
 
 - 🌱 I’m Junior Android Developer 
-
-<center>Platform</center>  
+<p align="center">
+Platform
 
   
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
@@ -31,6 +31,8 @@ Language
    
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/></a>
+ 
+ </p>
 <!---
 moon3482/moon3482 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
