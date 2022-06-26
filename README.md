@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Charlie%20Moon&fontSize=90)
+
 - 👋 Hi, I’m Charlie_Moon
 
 - 🌱 I’m Junior Android Developer 
