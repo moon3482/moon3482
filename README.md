@@ -39,8 +39,8 @@
 </hr>
 </hr>
 
-![moon3842's github stats](https://github-readme-stats.vercel.app/api?username=moon3482&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon3482)](https://github.com/moon3482)
+![moon3482's github stats](https://github-readme-stats.vercel.app/api?username=moon3482&show_icons=true&theme=tokyonight. 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moon3482&layout=compact&theme=tokyonight).  
 
 
 <!---
