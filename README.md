@@ -43,7 +43,7 @@
       
          
   
-![moon3482's github stats](https://github-readme-stats.vercel.app/api?username=moon3482&show_icons=true).   
+![moon3482's github stats](https://github-readme-stats.vercel.app/api?username=moon3482&show_icons=true)
     
         
             
